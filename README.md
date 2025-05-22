@@ -80,7 +80,7 @@ cd appicon-forge
 docker build -t appicon-forge .
 
 
-# Renive the image
+# remove the image
 docker rmi appicon-forge
 ```
 
